@@ -1,39 +1,5 @@
 
 
-//* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
-//* Program name    :  Time convertor / L2-2.ccp                        * 
-//*                                                                     * 
-//* Written by      : Peter Sivak                                       * 
-//*                                                                     * 
-//* Purpose         : User enters time in 12-hour nation, and program   * 
-//*                   display time in 24-hour nation format.            * 
-//*                                                                     * 
-//* Inputs          : User enters time in 12-hour nation                * 
-//*                                                                     * 
-//* Outputs         : Displays time in 24-hour nation                   * 
-//*                                                                     * 
-//* Calls           : No internal or external calls, other than system  * 
-//*                                                                     * 
-//* Structure       : BEGIN                                             * 
-//*                        Program prompts the user to enter time in    *
-//                         12-hour nation                               * 
-//*                   STOP                                              * 
-//*                       Program display result 24-hr nation, or error * 
-//*                                                                     * 
-//*---------------------------------------------------------------------* 
-//* Collaboration   : Got help from Prof. John Urrutia                  * 
-//*                                                                     * 
-//*                                                                     * 
-//*---------------------------------------------------------------------* 
-//* Change Log:                                                         * 
-//*                         Revision                                    * 
-//*       Date    Changed  Rel Ver Mod Purpose                          * 
-//*  10/02/23      psivak   000.000.000 Initial release of program      *  
-//*                                                                     * 
-//* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
-
-
 
 #include <iostream>
 #include <string>
